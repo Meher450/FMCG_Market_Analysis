@@ -3,7 +3,7 @@
 ## 🔍 Overview
 This repository contains an **FMCG Analytics Dashboard**, a business intelligence solution designed to provide **end-to-end visibility into sales performance, profitability, and product distribution** across regions and product categories.
 
-The project addresses a critical FMCG challenge—**fragmented commercial insights**—by consolidating structured datasets into a single analytics model. The dashboard enables stakeholders to track KPIs, analyze trends, and perform comparative performance analysis through interactive visualizations.
+The project addresses a critical FMCG challenge of fragmented commercial insights by consolidating structured datasets into a unified analytics model. The dashboard enables stakeholders to monitor KPIs, analyze trends, and compare performance across markets and product lines using interactive visuals.
 
 ---
 
@@ -14,15 +14,15 @@ The dashboard was developed to:
 - Enable region-wise and product-level performance analysis  
 - Support data-driven strategic and operational decisions  
 - Identify trends, variances, and performance anomalies  
-- Deliver insights through an executive-ready, intuitive interface  
+- Deliver insights through an executive-ready analytical interface  
 
 ---
 
 ## ✨ Key Features
-- Interactive visualizations for **Revenue, Profit, Units Sold, and Growth Trends**
-- Dedicated dashboards for **Regional and Product Category Analysis**
-- Drill-down capabilities for granular performance exploration
-- Automated anomaly and outlier detection indicators
+- Interactive visualizations for **revenue, profit, units sold, and growth trends**
+- Dedicated dashboards for **regional and product category analysis**
+- Drill-down capabilities for detailed performance exploration
+- Automated detection of anomalies and outliers
 - Built using an **industry-standard BI tool (Power BI)**
 
 ---
@@ -33,8 +33,9 @@ The dashboard was developed to:
 |--------------|------------|
 | `FMCG_Analytics_Dashboard.pbix` | Core Power BI file containing the data model and visualizations |
 | `Project_Requirements.pdf` | Business objectives, KPIs, and reporting requirements |
-| `Wireframes/` | UX wireframes and layout planning sketches |
+| `Design_Layouts/` | Preliminary dashboard layout sketches and navigation planning |
 | `Datasets/` | Source datasets used for analytics |
+| `.gitattributes` | Git configuration file |
 
 ---
 
@@ -51,7 +52,7 @@ To explore the dashboard locally:
 
 ## 🧱 Data Model
 Place all source files inside the `Datasets/` directory.  
-The dashboard is designed to work with the following data structures:
+The dashboard is designed to work with the following logical data structures:
 
 - Sales transactions by SKU, region, and time period  
 - Product master data with category hierarchy  
@@ -65,22 +66,22 @@ The dashboard is designed to work with the following data structures:
 ## 📈 Dashboard Pages
 The dashboard includes:
 
-- **Executive Summary** – High-level KPIs and performance snapshot  
-- **Regional & Market Performance** – Comparative region-level insights  
-- **Product Line Analysis** – Category and SKU performance tracking  
-- **Trend Analysis** – Revenue and profit trends over time  
-- **Anomaly Detection** – Visual indicators for outliers and exceptions  
+- **Executive Summary**, high-level KPIs and performance snapshot  
+- **Regional and Market Performance**, comparative regional insights  
+- **Product Line Analysis**, category and SKU-level performance  
+- **Trend Analysis**, revenue and profit movement over time  
+- **Anomaly Detection**, visual indicators for outliers and exceptions  
 
 ---
 
-## 🎨 Wireframes & UX
-The `Wireframes/` directory contains early-stage design sketches used to define:
+## 🎨 Design and Layout Planning
+The `Design_Layouts/` directory contains early-stage layout sketches used to define:
 
-- Page layouts and navigation structure  
+- Dashboard structure and page flow  
 - Visual hierarchy for KPIs and charts  
-- User experience optimized for business stakeholders  
+- Navigation logic for business users  
 
-These wireframes guided the final dashboard design and interaction flow.
+These layouts informed the final dashboard design and interaction experience.
 
 ---
 
@@ -105,17 +106,17 @@ Review this document before extending or modifying the dashboard.
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI** – Data modeling and visualization  
-- **DAX** – KPI calculations and measures  
-- **Excel / CSV** – Source data formats  
-- **Git & GitHub** – Version control and collaboration  
+## 🛠 Tools and Technologies
+- **Power BI**, data modeling and visualization  
+- **DAX**, KPI calculations and measures  
+- **Excel and CSV**, source data formats  
+- **Git and GitHub**, version control and collaboration  
 
 ---
 
 ## 📌 Notes
-This project is designed as a **scalable FMCG analytics template** and can be adapted for different datasets, regions, or product portfolios with minimal changes.
+This project is designed as a scalable FMCG analytics template and can be adapted for different datasets, regions, or product portfolios with minimal changes.
 
 ---
 
-⭐ If you found this project useful, consider starring the repository!
+⭐ If you found this project useful, consider starring the repository.
