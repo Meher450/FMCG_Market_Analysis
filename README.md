@@ -41,4 +41,4 @@ This project analyzes FMCG sales data to identify revenue-driving categories, re
 - Excel
 
 ## Visualizations
-Dashboard snapshots are available in the `/screenshots` folder to demonstrate key insights and KPIs.
+Dashboard snapshots are available in the `/Design_Layouts` folder to demonstrate key insights and KPIs.
