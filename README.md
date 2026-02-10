@@ -35,7 +35,6 @@ The dashboard was developed to:
 | `Project_Requirements.pdf` | Business objectives, KPIs, and reporting requirements |
 | `Wireframes/` | UX wireframes and layout planning sketches |
 | `Datasets/` | Source datasets used for analytics |
-| `.gitattributes` | Git configuration file |
 
 ---
 
